@@ -6,5 +6,6 @@ requests
 vaderSentiment
 plotly
 matplotlib
+seaborn
 fpdf
 pytz
